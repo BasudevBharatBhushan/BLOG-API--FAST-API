@@ -20,3 +20,13 @@
 
 - Start the Server  
   `uvicorn main:app --reload`
+
+---
+
+### To Test API
+
+- Swagger UI  
+  ` localhost:8000/docs`
+
+- Redoc  
+  ` localhost:8000/redoc`
